@@ -87,7 +87,7 @@ The error encountering, `KeyError: (None,)`, is related to Odoo's internal cachi
 
 * [No such file or directory" ODOO10](https://stackoverflow.com/questions/45794753/no-such-file-or-directory-odoo10)
 * [ir_attachment: IOError: [Errno 2] No such file or directory](https://www.odoo.com/forum/help-1/ir-attachment-ioerror-errno-2-no-such-file-or-directory-94675)
-* [Chat GPT response](https://chat.openai.com/share/9ee143c3-ae6f-4c52-bc8e-e109f499df09)
+* [Chat GPT response on Error (Clear cache)](https://chat.openai.com/share/9ee143c3-ae6f-4c52-bc8e-e109f499df09)
 
 
 
